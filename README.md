@@ -6,29 +6,19 @@ mediante pruebas psicométricas y su comparación con modelos de lenguaje (LLM).
 
 2. 👥 Equipo de Desarrollo
 
-Lista los integrantes con sus roles:
-
-Juan – Control de versiones / DevOps
-
-Ana – Frontend
-
-Carlos – Backend
-
-Laura – Documentación
+- `Catalina Estrada` – **Lider / Frontend /Planificación**
+- `Juan Sebastian Obando` – **Encargado Control de versiones / Ejecución / Full Stack** 
+- `Erika Muñoz` – **Planeadora / Frontend**
+- `Arley David` – **Monitoreo / Tester**
+- `Cristian Cifuentes` – **Cierre / Backend**
+- `Felipe Valdez` – **Inicio / Backend**
 
 3. 🛠️ Tecnologías y Herramientas
 
-Enumera el stack que usarán:
-
-HTML, CSS, JavaScript
-
-Node.js / React (si aplica)
-
-Git & GitHub
-
-Excel como entrada
-
-PDF como salida
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Excel como entrada (archivos.xml)
+- PDF como salida (reportes de pruebas)
 
 4. 📂 Estructura del Repositorio
 <pre>
